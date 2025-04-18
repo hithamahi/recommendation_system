@@ -106,25 +106,25 @@ conda activate movie
 
 ### STEP 02- install the requirements
 ```bash
-pip install -r requirements.txt
+pip install -r requirements1.txt
 ```
 
 
 ```bash
 #run this file to generate the models
 
-Movie Recommender System Data Analysis.ipynb
+backend code.ipynb
 ```
 
 Now run,
 ```bash
-streamlit run app.py
+streamlit run app1.py
 ```
 
 
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Pujari Mahesh
+AI/ML Engineer Aspirant
+Email: maheshpujari2302@gmail.com
 
 ```
